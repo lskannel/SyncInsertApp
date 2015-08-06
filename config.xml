@@ -1,5 +1,5 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.kannel.syncapp" version="1.0.0">
-  <name>SyncApp</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.kannel.syncappin" version="1.0.0">
+  <name>SyncAppIn</name>
   <description>App para la sincronizacion de para la applicacion de visitas al campo</description>
   <author href="http://ls-sys.com" email="gs@ls-sys.com">LogicSoft</author>
   <content src="index.html"/>
